@@ -1,0 +1,133 @@
+Description	ProteinID_927	ProteinID_427	marker	Trace_validated	Comments
+NADH-dependent fumarate reductase	Tb927.5.930	Tb427_050032900	Glycosomal matrix		
+phosphoglycerate kinase	Tb927.1.720	Tb427_010006700	Glycosomal matrix		
+Glucose-6-phosphate 1-dehydrogenase	Tb927.10.2490	Tb427_100029200	Glycosomal matrix		
+6-phosphogluconolactonase	Tb927.11.6330	Tb427_110068300	Glycosomal matrix		
+glycerol kinase	Tb927.9.12550	Tb427_090073100	Glycosomal matrix		
+L-galactonolactone oxidase	Tb927.5.2650	Tb427_050032900	Glycosomal matrix		
+"Isocitrate dehydrogenase, putative"	Tb927.11.900	Tb427_110013700	Glycosomal matrix		
+"Metallo-peptidase, Clan MH, Family M18"	Tb927.8.1910	Tb427_080021900	Glycosomal matrix		
+glycosomal malate dehydrogenase 	Tb927.10.15410	Tb427_100162700	Glycosomal matrix		
+Aldolase	Tb927.10.5620	Tb427_100060200	Glycosomal matrix		
+Triose phosphate isomerase	Tb927.11.5520	Tb427_110060300	Glycosomal matrix		
+"glycerol-3-phosphate dehydrogenase [NAD ], glycosomal "	Tb927.8.3530	Tb427_080040100	Glycosomal matrix		
+pyruvate phosphate dikinase 	Tb927.11.6280	Tb427_110067700	Glycosomal matrix		
+Hexokinase	Tb927.10.2010	Tb427_100023600	Glycosomal matrix		
+HK2	Tb927.10.2020	Tb427_100023700	Glycosomal matrix		
+Phosphofructokinase	Tb927.3.3270	Tb427_030033300	Glycosomal matrix		
+"fructose-1,6-bisphosphatase "	Tb927.9.8720	Tb427_090049000	Glycosomal matrix		
+"glucose-6-phosphate isomerase, glycosomal "	Tb927.1.3830	Tb427_010026900	Glycosomal matrix		
+"mevalonate kinase, putative "	Tb927.4.4070	Tb427_040043400	Glycosomal matrix		
+GIM5B	Tb927.9.11600	Tb427_090066200	Glycosomal membrane	yes	
+GIM5A	Tb927.9.11580	Tb427_090066100	Glycosomal membrane	yes	
+PEX11	Tb927.11.11520	Tb427_110131800	Glycosomal membrane	yes	
+PEX13.1 	Tb927.10.14720	Tb427_100155500	Glycosomal membrane	yes	
+PEX16	Tb927.9.6450	Tb427_090036100	Glycosomal membrane	yes	
+PEX12	Tb927.10.15850	Tb427_100168100	Glycosomal membrane	yes	
+PEX13.2	Tb927.9.9430	Tb427_090053600	Glycosomal membrane	yes	
+GAT1	Tb927.4.4050	Tb427_040043200	Glycosomal membrane	yes	
+GAT2	Tb927.11.3130	Tb427_110036300	Glycosomal membrane	yes	
+PEX2	Tb927.3.2340	Tb427_030023100	Glycosomal membrane	yes	
+PEX10	Tb927.3.2410	Tb427_030023800	Glycosomal membrane	yes	
+PEX3	Tb927.11.10260	Tb427_110111200	Glycosomal membrane	yes	
+ADP-ribosylation factor - ARF1	Tb927.9.13650	Tb427_090081800	Golgi	Not ID'ed	
+ras-related protein RAB1A - LINJ.27.0620	Tb927.8.890	Tb427_080009100	Golgi	yes	
+Lipophosphoglycan biosynthetic protein (Lpg2) - LINF_340051400	Tb927.4.430	Tb427_040006200	Golgi	yes	
+Coatomer subunit epsilon	Tb927.11.14900 	Tb427_110167400	Golgi	yes	
+Golgi reassembly stacking protein - GRASP	Tb927.11.2660	Tb427_110031500	Golgi	yes	
+TbG63	Tb927.11.6840	Tb427_110073500	Golgi	yes	
+Integral membrane protein S linking to the trans Golgi network	Tb927.3.4200	Tb427_030045100	Golgi	Not ID'ed	
+Golgi complex component 7 (COG7)	Tb927.7.450	Tb427_070007900	Golgi	yes	
+guanosine diphosphatase - LINJ.10.0150	Tb927.8.3800	Tb427_080042900	Golgi	Not ID'ed	
+Golgi vesicular membrane trafficking protein	Tb927.3.3720	Tb427_030040000	Golgi	yes	
+Golgin-84 homolog	Tb927.10.950	Tb427_100012600	Golgi	Not ID'ed	
+Luminal binding protein 1 (BiP)	Tb927.11.7460	Tb427_110081200	ER	Not ID'ed	
+"calreticulin, putative"	Tb927.4.5010	Tb427_040053500	ER	yes	
+Calcium-translocating P-type ATPase	Tb927.5.3400	Tb427_050040500	ER	yes	
+ERBP1	Tb927.10.14150	Tb427_100149800	ER	yes	
+"dolicholphosphate-mannose synthase, putative"	Tb927.10.4610	Tb427_100050200	ER	yes	
+"protein transport protein SEC61 subunit alpha, putative"	Tb927.11.6230	Tb427_110067200	ER	yes	
+"serine-palmitoyl-CoA transferase, putative"	Tb927.4.1020	Tb427_040012100	ER	yes	
+"oligosaccharyl transferase subunit, putative"	Tb927.5.890	Tb427_050013700	ER	yes	
+"oligosaccharyl transferase subunit, putative"	Tb927.5.890	Tb427_050013800	ER	yes	
+ Integral membrane protein DUF106 TbEMC3	Tb927.10.4760	Tb427_100051700	ER	yes	
+PQQ-like domain/Protein of unknown function (DUF1620) TbEMC1	Tb927.4.590	Tb427_040007800	ER	yes	
+3-keto-dihydrosphingosine reductase	Tb927.10.4040 	Tb427_100044800	ER	yes	
+"sphingolipid delta 4 desaturase, putative"	Tb927.6.3000 	Tb427_060035100	ER	yes	
+Endoplasmic Reticulum-Golgi Intermediate Compartment (ERGIC)	Tb927.4.5100	Tb427_080079000	ER	yes	
+Enolase	Tb927.10.2890	Tb427_100033400	Cytoplasm	Not ID'ed	
+Eukaryotic translation initiation factor 5A	Tb927.11.740	Tb427_110012100	Cytoplasm	yes	
+"60S ribosomal protein L19, putative"	Tb927.7.5020	Tb427_070055900	Cytoplasm	Not ID'ed	
+Phosphoglycerate kinase	Tb927.1.700	Tb427_010006500	Glyco_Cyto	yes	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC21686/
+"NADP-dependent malic enzyme, cytosolic"	Tb927.11.5440	Tb427_110059500	Cytoplasm	yes	
+ALBA-Domain Protein TbAlba2	Tb927.11.4450	Tb427_110049600	Cytoplasm	yes	
+"2,3-bisphosphoglycerate-independent phosphoglycerate mutase"	Tb927.10.7930	Tb427_100086000	Cytoplasm	yes	
+Tryptophanyl-tRNA synthetase	Tb927.3.5580	Tb427_030059300	Cytoplasm	yes	
+Pyruvate Kinase PYK1	Tb927.10.14140	Tb427_100149600	Cytoplasm	yes	
+e plasma membrane P-type H+ -ATPase (HA1-3)	Tb927.10.12510	Tb427_100132500	Plasma membrane	yes	
+folate/biopterin transporter  	Tb927.8.3620	Tb427_080041300	Plasma membrane	Not ID'ed	
+"glycosylphosphatidylinositol (GPI) anchor, putative"	Tb927.4.1920	Tb427_040021500	Plasma membrane	yes	
+75 kDa invariant surface glycoprotein ISG75	Tb927.5.400	Tb427_050008200	Plasma membrane	Not ID'ed	
+Vacuolar-type Ca2+-ATPase 2	Tb927.8.1200	Tb427_080012000	Plasma membrane	yes	
+"Vacuolar-type Ca2+-ATPase, putative"	Tb927.8.1160	Tb427_080011800	Plasma membrane	yes	
+65 kDa invariant surface glycoprotein ISG65	Tb927.2.3270	Tb427_020013900	Plasma membrane	Not ID'ed	
+"calcium-transporting ATPase, putative"	Tb927.10.11620	Tb427.10.11620	Plasma membrane	Not ID'ed	
+Amino acid permease 24 AAT6	 Tb927.8.5450	Tb427_080059900	Plasma membrane	Not ID'ed	
+"amino acid tansporter, putative"	Tb927.10.5780	Tb427_100061900	Plasma membrane	yes	
+Alpha tubulin	Tb927.1.2360	Tb427_010017600	Cytoskeleton	Not ID'ed	
+Flagellum targeting protein kharon1	Tb927.10.8940	Tb427_100096400	Cytoskeleton	yes	
+Paraflagellar rod proteins PFR1-1	Tb927.3.4290	Tb427_030046000	Cytoskeleton	yes	
+CAP42 Cytoskeleton-associated protein 42 kDa	Tb927.4.1300	Tb427_040015300	Cytoskeleton	yes	
+CAP50 Cytoskeleton-associated protein 50 kDa	Tb927.11.2610	Tb427_110031000	Cytoskeleton	yes	
+CAP52 Cytoskeleton-associated protein 52 kDa	Tb927.6.5070	Tb427_060055700	Cytoskeleton	yes	
+Cytoskeleton associated protein 51	Tb927.7.2640 	Tb427_070030900	Cytoskeleton	yes	
+Flagellum attachment zone protein 5	Tb927.10.8830	Tb427_100095100	Cytoskeleton	yes	
+Flagellum attachment zone protein 9	Tb927.10.14320	Tb427_100151500	Cytoskeleton	yes	
+Microtubule-associated repetitive protein	Tb927.10.10360	Tb427_100110300	Cytoskeleton	yes	
+MARP-2 Microtubule-associated repetitive protein 2	Tb927.10.10280 	Tb427_100109500	Cytoskeleton	yes	
+Pyrophosphate-energized vacuolar membrane proton pump 1	Tb927.4.4380	Tb427_040046900	Acidocalcisome	yes	
+Pyrophosphate-energized vacuolar membrane proton pump 2	Tb927.8.7980	Tb427_080085500	Acidocalcisome	yes	
+Acidocalcisomal pyrophosphatase  	Tb927.11.7060	Tb427_110075500	Acidocalcisome	Not ID'ed	
+Acid phosphatase (TbAP)	Tb927.10.7020	Tb427_100076200	Acidocalcisome	yes	
+Vacuolar iron transporter 1   protein  	Tb927.3.800	Tb427_030007700	Acidocalcisome	yes	
+Vacuolar-Ca2+-ATPase (TbPMC1)	Tb927.8.1180	Tb427_080012000	Acidocalcisome	yes	
+Vacuolar transporter chaperone 1 (TbVtc1)*	Tb927.7.3900	Tb427_070044400	Acidocalcisome	yes	
+"inositol 1,4,5-trisphosphate receptor TbIP3R"	Tb927.8.2770	Tb427_080031100	Acidocalcisome	yes	
+Vacuolar transporter chaperone 4 (TbVtc4)	Tb927.11.12220	Tb427_110138900	Acidocalcisome	yes	
+Low-affinity phosphate transporter PHO91	Tb927.11.11160	Tb427_110127200	Acidocalcisome	yes	
+NUP-1 protein	Tb927.2.4230	Tb427_020019600	Nuclear Pore	yes	
+Nucleoporin TbNup158 	Tb927.11.980	Tb427_110014500	Nuclear Pore	yes	
+TbNup96 	Tb927.10.7060	Tb427_100076600	Nuclear Pore	yes	
+TbNup41	Tb927.10.2320	Tb427_100027400	Nuclear Pore	Not ID'ed	
+TbNup144 	Tb927.10.8170	Tb427_100088600	Nuclear Pore	yes	
+hypothetical protein	Tb927.9.6460	Tb427_090036200	Nuclear Pore	Not ID'ed	
+hypothetical protein	Tb927.8.2460	Tb427_080027800	Nuclear Pore	yes	
+Nucleoporin TbNup109 	Tb927.11.15990	Tb427_110178800	Nuclear Pore	yes	
+TbNup65	Tb927.10.3810	Tb427_100042700	Nuclear Pore	yes	
+hypothetical protein	Tb927.6.890	Tb427_060012300	Nuclear Pore	Not ID'ed	
+hypothetical protein	Tb927.10.8160	Tb427_100088500	Nuclear Pore	Not ID'ed	
+"histone H2A, putative"	Tb927.7.2940	Tb427_070034600	Nucleus	Not ID'ed	
+"histone H2B variant, putative (H2BVAR)"	Tb927.11.7350	Tb427_110079200	Nucleus	yes	
+GTPase activating protein	Tb927.10.7680	Tb427_100083400	Nucleus	yes	
+SmE	Tb927.6.2700 	Tb427_060032100	Nucleus	yes	
+Nuclear protein (TbNP)	Tb927.10.3640	Tb427_100041000	Nucleus	yes	
+SmB 	Tb927.2.4540 	Tb427_020021500	Nucleus	Not ID'ed	
+hypothetical protein	Tb927.10.12030	Tb427_100127700	Nucleus	Not ID'ed	
+"Pescadillo N-terminus/BRCA1 C Terminus (BRCT) domain containing protein, putative"	Tb927.9.8200	Tb427_090045900	Nucleus	yes	
+SmG 	Tb927.11.14310 	Tb427_110161000	Nucleus	Not ID'ed	
+KKIP6	Tb927.1.4680	Tb427_010031100	Nucleus	Not ID'ed	
+"NUC173 domain containing protein, putative"	Tb927.11.2510	Tb427_110030000	Nucleus	Not ID'ed	
+hypothetical protein	Tb927.10.11210	Tb427_100119200	Nucleus	Not ID'ed	
+LSm2 	Tb927.8.5180 	Tb427_080057100	Nucleus	Not ID'ed	
+hypothetical protein	Tb927.8.4800	Tb427_080053100	Nucleus	Not ID'ed	
+"helicase, putative"	Tb927.5.3940	Tb427_050046100	Nucleus	Not ID'ed	
+Replication Factor C Subunit 1-related protein	Tb927.1.1890	Tb427_010014800	Nucleus	Not ID'ed	
+"3-oxo-5-alpha-steroid 4-dehydrogenase, putative"	Tb927.3.1840	Tb427_030018100	Glyco_mito	yes	http://tryptag.org/?query=Tb927.3.1840
+VDAC	Tb927.2.2510	Tb427_020010700	Mitochondria	Not ID'ed	
+"Short-chain dehydrogenase, putative"	Tb927.11.10020	Tb427_110108600	Glyco_mito	yes	http://tryptag.org/?query=Tb927.11.10020
+Cytochrome C1	Tb927.8.1890	Tb427_080021700	Mitochondria	yes	
+"metallo- peptidase, Clan M- Family M48"	Tb927.9.8950	Tb427_090050100	Mitochondria	yes	
+"ABC transporter, mitochondrial, putative"	Tb927.11.540	Tb427_110009600	Mitochondria	yes	
+"GEM1, putative"	Tb927.8.560	Tb427_080005700	Mitochondria	yes	
+"Mitochondrial calcium uniporter, MCU"	Tb927.11.1350	Tb427_110018000	Mitochondria	Not ID'ed	
+MCUb	Tb927.10.300	Tb427_100006400	Mitochondria	yes	
