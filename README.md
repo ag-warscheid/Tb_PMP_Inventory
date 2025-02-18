@@ -3,7 +3,7 @@
 Zenodo DOI: 10.5281/zenodo.14889747
 
 
-This repository contains data analysis script for the manuscript "High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15.".
+This repository contains data analysis script for the manuscript "High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15".
 
 ## System requirements
 - Scripts are provided as [Jupyter notebooks](https://jupyter.org/).
