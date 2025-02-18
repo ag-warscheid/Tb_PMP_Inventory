@@ -1,7 +1,7 @@
 # High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15
 
 
-This repository contains data analysis scripts for the manuscript "High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15.".
+This repository contains data analysis script for the manuscript "High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15.".
 
 ## System requirements
 - Scripts are provided as [Jupyter notebooks](https://jupyter.org/).
@@ -20,8 +20,7 @@ This repository contains data analysis scripts for the manuscript "High confiden
 - No non-standard libraries or hardware are required to run the scripts
 
 ## How to run
-- Save and extract the txt folder inside the folder ''data''
--create a 'results' and 'marker_list' folder
+- Save and extract the 'txt', 'results' and 'marker_list' folder
 - With autoprot installed, run the jupyter notebook 'TbGMP_script_data_processing.ipynb'
 
 ## How to get help
