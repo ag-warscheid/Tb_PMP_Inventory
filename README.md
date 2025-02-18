@@ -21,7 +21,7 @@ This repository contains data analysis script for the manuscript "High confidenc
 
 ## How to run
 - Save and extract the 'txt', 'results' and 'marker_list' folder
-- With autoprot installed, run the jupyter notebook 'TbGMP_script_data_processing.ipynb'
+- With autoprot installed, run the jupyter notebook 'Tb_PMP_script_data_processing.ipynb'
 
 ## How to get help
 If something does not work as expected, please reach out to us via the GitHub issues function.
