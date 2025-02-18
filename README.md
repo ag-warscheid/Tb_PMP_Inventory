@@ -1,4 +1,4 @@
-# High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15.
+# High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15
 
 
 This repository contains data analysis scripts for the manuscript "High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15.".
@@ -9,7 +9,8 @@ This repository contains data analysis scripts for the manuscript "High confiden
   - Autoprot integrates Python and R scripts for proteomics data analysis and therefore requires both languages to be installed
 - Software dependencies are detailed in the ''requirements.txt'' file in the autoprot repository
   - However, detailed information on all installed packages during execution including version numbers are provided in the respective notebooks (as ''environment.txt'' and ''R_environment.csv'' respectively)
-- The scripts were tested with Python 3.10 and R 4.2.2 on MS Windows 10 and Ubuntu 22.04 LTS.
+- The scripts were tested with Python 3.10 and[LICENSE.md](https://github.com/user-attachments/files/18851660/LICENSE.md)
+ R 4.2.2 on MS Windows 10 and Ubuntu 22.04 LTS.
 
 ## Installation guide
 - Install autoprot on your local computer (see installation instructions on [the autoprot repository](https://github.com/ag-warscheid/autoprot)).
