@@ -21,8 +21,8 @@ This repository contains data analysis scripts for the manuscript "High confiden
 
 ## How to run
 - Save and extract the txt folder inside the folder ''data''
--create a 'results' and 'plots' folder
-- With autoprot installed, run the jupyter notebooks in numeric order
+-create a 'results' and 'marker_list' folder
+- With autoprot installed, run the jupyter notebook 'TbGMP_script_data_processing.ipynb'
 
 ## How to get help
 If something does not work as expected, please reach out to us via the GitHub issues function.
