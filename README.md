@@ -1,5 +1,7 @@
 # High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15
 
+Zenodo DOI: 10.5281/zenodo.14889747![image](https://github.com/user-attachments/assets/31fe764d-adb5-41a4-ae58-b839ee22d611)
+
 
 This repository contains data analysis script for the manuscript "High confidence glycosomal membrane protein inventory unveils trypanosomal Peroxin PEX15.".
 
